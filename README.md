@@ -1,10 +1,14 @@
 # Blockchain-based DNS
+![License](https://img.shields.io/github/license/okhalifa-official/blockchain-based-dns)
+![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-blue)
+![Network](https://img.shields.io/badge/Testnet-Sepolia-purple)
+![Status](https://img.shields.io/badge/status-active%20development-orange)
 
 A decentralized Domain Name System (DNS) built on Ethereum smart contracts, combining the security of blockchain with recursive DNS resolution capabilities. This project demonstrates how blockchain can eliminate centralized DNS vulnerabilities while maintaining interoperability with the existing DNS ecosystem.
 
 **Author:** Omar Khalifa
 
-![](./images/1.png)
+![Blockchain-based DNS Resolver Dashboard](./images/1.png)
 
 ---
 
@@ -15,6 +19,15 @@ A decentralized Domain Name System (DNS) built on Ethereum smart contracts, comb
 > **DO NOT use your actual cryptocurrency wallet or real private keys for testing.** Only use testnet funds (Sepolia ETH) with test wallets created specifically for development. Any real crypto is at risk of loss due to bugs or vulnerabilities.
 
 <br>
+
+## Documentation & Resources
+
+- **Full Research & Architecture** → [DOCUMENTATION.md](./DOCUMENTATION.md)
+- **Technical Notes & Experiments** → [doc.md](./doc.md)
+- **Smart Contract** → [BlockchainDNS.sol](./BlockchainDNS.sol)
+- **Frontend Dashboard** → [`dns-frontend/`](./dns-frontend)
+
+---
 
 ## Problem Statement
 
@@ -175,17 +188,6 @@ Transactions are stored on blockchain and verified by [etherscan](https://sepoli
 
 ---
 
-## Documentation
-
-For detailed research, architecture, and analysis, see [DOCUMENTATION.md](./DOCUMENTATION.md):
-- Background on DNS and blockchain
-- Research problem and objectives
-- Analysis of existing solutions
-- Performance evaluation
-- Future work
-
----
-
 ## 🔐 Security Considerations
 
 - ✅ **Ownership Control** - Only domain owner can modify records
@@ -267,7 +269,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Check [doc.md](./doc.md) for detailed documentation
 - Review the smart contract comments for function details
 
 ---
