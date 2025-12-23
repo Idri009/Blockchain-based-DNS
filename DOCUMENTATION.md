@@ -2,9 +2,9 @@
 
 **Author:** Omar Khalifa
 
-[Background](./Documentation/background.md)
+[Background](./docs/background.md)
 <br>
-[Existing Solutions](./Documentation/related_work.md)
+[Existing Solutions](./docs/related_work.md)
 
 <details>
     <summary><b>Problem Statement</b></summary>
