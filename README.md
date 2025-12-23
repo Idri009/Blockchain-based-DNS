@@ -23,8 +23,8 @@ A decentralized Domain Name System (DNS) built on Ethereum smart contracts, comb
 
 ## Documentation & Resources
 
-- **Full Research & Architecture** → [DOCUMENTATION.md](./DOCUMENTATION.md)
-- **Technical Notes & Experiments** → [doc.md](./doc.md)
+- **Background & Details** → [DOCUMENTATION](./docs)
+- **Related Work** → [doc.md](./docs/related_work.md)
 - **Smart Contract** → [BlockchainDNS.sol](./BlockchainDNS.sol)
 - **Frontend Dashboard** → [`dns-frontend/`](./dns-frontend)
 
