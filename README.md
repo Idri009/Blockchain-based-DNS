@@ -177,7 +177,7 @@ Transactions are stored on blockchain and verified by [etherscan](https://sepoli
 
 ## Documentation
 
-For detailed research, architecture, and analysis, see [doc.md](./doc.md):
+For detailed research, architecture, and analysis, see [DOCUMENTATION.md](./DOCUMENTATION.md):
 - Background on DNS and blockchain
 - Research problem and objectives
 - Analysis of existing solutions
